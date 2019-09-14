@@ -1,4 +1,3 @@
-Development of Deep Learning Methods for Inflow Turbulence Generation \[CERFACS\]
 
 * * *
 
